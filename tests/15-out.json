@@ -1,0 +1,29 @@
+{
+  "kind": "Program",
+  "body": [
+    {
+      "kind": "StringLiteral",
+      "value": "h"
+    },
+    {
+      "kind": "StringLiteral",
+      "value": ""
+    },
+    {
+      "kind": "StringLiteral",
+      "value": "\""
+    },
+    {
+      "kind": "StringLiteral",
+      "value": "\\"
+    },
+    {
+      "kind": "StringLiteral",
+      "value": "\n"
+    },
+    {
+      "kind": "StringLiteral",
+      "value": "'"
+    }
+  ]
+}
